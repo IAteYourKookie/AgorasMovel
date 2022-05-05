@@ -101,11 +101,11 @@ Esse projeto está sendo desenvolvido com as tecnologias:
 - [x] BD Login
 - [x] BD Cadastro
 - [x] BD Debate
-- [ ] BD Tema
-- [ ] BD Comentário
-- [ ] BD Resposta
-- [ ] BD Curtida
-- [ ] BD Edição de Perfil, Senha e Foto
+- [x] BD Tema
+- [x] BD Comentário
+- [x] BD Resposta
+- [x] BD Curtida
+- [x] BD Edição de Perfil, Senha e Foto
 
 ## Cores Principais
 
